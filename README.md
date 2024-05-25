@@ -20,8 +20,8 @@ Os dois videos da montagem, contem as 2 formas de montar o servidor, sao videos 
 
 - *Windows,  minimo 8 de memoria ram, 120 gb preferencia SSD*
 
-### O custo minimo para manter um servidor desse, seria apenas o aluguel do dedicado, de 400 a 600R$ dependendo do dedicado, bbhost etc
-### Se for jogar offline ou via hamachi com seus amigos o custo é nulo :)
+#### O custo minimo para manter um servidor desse, seria apenas o aluguel do dedicado, de 400 a 600R$ dependendo do dedicado, bbhost etc
+#### Se for jogar offline ou via hamachi com seus amigos o custo é nulo :)
 
 ## ℹ️ Download de todos os arquivos 
 
