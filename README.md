@@ -2,7 +2,7 @@
 Um repositório abrangente para o Daybreak Online, contendo diversas ferramentas, bancos de dados e arquivos necessários para configurar o servidor.
 
 ## App preview
-![image](https://github.com/thebitnomad/Daybreak-Online-AIO/assets/134553365/c67e4032-a153-419c-9692-4dfb16855ed0)
+![image](https://github.com/Ronisilvadev/Daybreak-Montando-Servidor/264192194-c67e4032-a153-419c-9692-4dfb16855ed0.png)
 
 ## ℹ️ Recursos Disponíveis
 
