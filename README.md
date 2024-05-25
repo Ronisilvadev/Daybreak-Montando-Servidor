@@ -1,7 +1,6 @@
 # 💥 Daybreak Brasil Online
 Esse repositorio é esta sendo feito no intuito de ajudar a crescer a comunidade daybreak brasil surgindo novos servidores.
 
-## App preview
 ![image](https://github.com/thebitnomad/Daybreak-Online-AIO/assets/134553365/c67e4032-a153-419c-9692-4dfb16855ed0)
 
 ## ℹ️ Considerações
