@@ -7,6 +7,7 @@ Esse repositorio é esta sendo feito no intuito de ajudar a crescer a comunidade
 ## ℹ️ Considerações
 Arquivos do servidor Daybreak brasil valhalla aberto em 2023
 Esse tutorial foi dividido em 2 partes na questão de, fazer o login com ou sem senha, esta explicado como fazer das duas maneiras
+Os dois videos da montagem, contem as 2 formas de montar o servidor, sao videos completos.
 
 - [Link do canal onde vão ser postados todos os tutoriais](https://www.youtube.com/@DaybreakBrasilOnlineTutorial)
 
