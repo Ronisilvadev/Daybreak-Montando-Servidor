@@ -12,36 +12,30 @@ Um repositório abrangente para o Daybreak Online, contendo diversas ferramentas
 
 
 
-## - Requisitos:
+## - Requisitos Minimos:
 
-** O requisitos minimos pra rodar um server com autenticaçao de senha.**
+- O requisitos minimos pra rodar um server com autenticaçao de senha.**
 
 *Windows,  minimo 16 de memoria ram, 250gb preferencia SSD*
 
-** Caso não va fazer nada com autenticaçao de senha. (logar no jogo sem senha)**
+- Caso não va fazer nada com autenticaçao de senha. (logar no jogo sem senha)**
 
 *Windows,  minimo 8 de memoria ram, 120 gb preferencia SSD*
 
 
+## ℹ️ Download de todos os arquivos 
 
-## ℹ️ Recursos Disponíveis
+- [Download 1](https://www.mediafire.com/file/5ukibcvktsn7y76/daybreak_brasil_servidor_parte_2.rar/file)
+- [Download 2](https://www.mediafire.com/file/6lypobmvk3osybd/daybreak_brasil_servidor_parte_1.rar/file)
 
-- [DayBreak GMTools IIS APP](https://github.com/thebitnomad/DayBreak-GMTools)
-- [DayBreak GMTools database](https://drive.google.com/file/d/1uhB7LuhSphhOUIDReDOvMkKYn6aaTcfC/view?usp=drive_link)
-- [DayBreak Game Database](https://drive.google.com/file/d/1nGPV9_9Tu5djmYOCMifNOs-2VQDNKOLV/view?usp=drive_link)
-- [DayBreak Game log "required"](https://drive.google.com/file/d/1GlXFgK0jBJ0AbPvV0x0HJr8u5GM4pFXb/view?usp=drive_link)
-- [DayBreak eRating - CentOS x86 VMware](https://drive.google.com/file/d/1_o9YP16D0ZJZcKBL9eTtllVioFw5B6v3/view?usp=drive_link)
   - usuário: root
-  - senha: ivanglobalgames
-- [DayBreak GameServer - CentOS x64 VMware](https://drive.google.com/file/d/17rorms6ihLPh3ScZ0P6JTaTk2MQe7HFz/view?usp=drive_link)
-  - usuário: root
-  - senha: ivanglobalgames
+  - senha: 0302
 - [DayBreak Game Client](https://drive.google.com/file/d/1B7Mx6gyQeBXmqtlSbVgdO2RjoAxwAaJG/view?usp=drive_link)
 - [VMWare WorkStation](https://drive.google.com/file/d/1BTE5S12eX20QfLxIrNRaOOQaZ3yJ-6CM/view?usp=drive_link)
 - [MySQL](https://downloads.mysql.com/archives/get/p/23/file/mysql-5.5.62-winx64.msi)
 - [Netframework 2.0](https://www.microsoft.com/pt-br/download/confirmation.aspx?id=6041)
 
-## 📝 Tutorial COMPLETO
+## 📝 COMEÇANDO o TUTORIAL
 
 ### 1. Instalação
 
