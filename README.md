@@ -6,6 +6,26 @@ Um repositório abrangente para o Daybreak Online, contendo diversas ferramentas
 
 ## ℹ️ Recursos Disponíveis
 
+
+
+
+
+
+
+## - Requisitos:
+
+** O requisitos minimos pra rodar um server com autenticaçao de senha.**
+
+*Windows,  minimo 16 de memoria ram, 250gb preferencia SSD*
+
+** Caso não va fazer nada com autenticaçao de senha. (logar no jogo sem senha)**
+
+*Windows,  minimo 8 de memoria ram, 120 gb preferencia SSD*
+
+
+
+## ℹ️ Recursos Disponíveis
+
 - [DayBreak GMTools IIS APP](https://github.com/thebitnomad/DayBreak-GMTools)
 - [DayBreak GMTools database](https://drive.google.com/file/d/1uhB7LuhSphhOUIDReDOvMkKYn6aaTcfC/view?usp=drive_link)
 - [DayBreak Game Database](https://drive.google.com/file/d/1nGPV9_9Tu5djmYOCMifNOs-2VQDNKOLV/view?usp=drive_link)
