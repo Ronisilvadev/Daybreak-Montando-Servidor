@@ -4,10 +4,7 @@ Um repositório abrangente para o Daybreak Online, contendo diversas ferramentas
 ## App preview
 ![image](https://github.com/thebitnomad/Daybreak-Online-AIO/assets/134553365/c67e4032-a153-419c-9692-4dfb16855ed0)
 
-## ℹ️ Recursos Disponíveis
-
-
-
+## ℹ️ Considerações
 
 
 
@@ -22,16 +19,19 @@ Um repositório abrangente para o Daybreak Online, contendo diversas ferramentas
 
 - *Windows,  minimo 8 de memoria ram, 120 gb preferencia SSD*
 
-
 ## ℹ️ Download de todos os arquivos 
 
-- [Download 1](https://www.mediafire.com/file/5ukibcvktsn7y76/daybreak_brasil_servidor_parte_2.rar/file) Todos os arquivos necessarios e VM Gameserver
-- [Download 2](https://www.mediafire.com/file/6lypobmvk3osybd/daybreak_brasil_servidor_parte_1.rar/file) Apenas a vm Erating
-  - senha: 0302
-- [DayBreak Game Client](https://drive.google.com/file/d/1B7Mx6gyQeBXmqtlSbVgdO2RjoAxwAaJG/view?usp=drive_link)
-- [VMWare WorkStation](https://drive.google.com/file/d/1BTE5S12eX20QfLxIrNRaOOQaZ3yJ-6CM/view?usp=drive_link)
-- [MySQL](https://downloads.mysql.com/archives/get/p/23/file/mysql-5.5.62-winx64.msi)
-- [Netframework 2.0](https://www.microsoft.com/pt-br/download/confirmation.aspx?id=6041)
+- [Download 1](https://www.mediafire.com/file/5ukibcvktsn7y76/daybreak_brasil_servidor_parte_2.rar/file) 
+
+ - Arquivos e programas - mysql, workbranch, notepad++, WinSCP, VMware, Pacote visual C++, Config da vm exportada etc 
+ - Todos os bancos de dados
+ - Pasta master web, ja configurada e traduzida
+ - Lista de permissões 
+ - LAUNCHER ja configurado 
+
+- [Download 2](https://www.mediafire.com/file/6lypobmvk3osybd/daybreak_brasil_servidor_parte_1.rar/file) 
+
+  - senha do winrar: 0302
 
 ## 📝 COMEÇANDO o TUTORIAL
 
