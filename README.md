@@ -39,15 +39,20 @@ Um repositório abrangente para o Daybreak Online, contendo diversas ferramentas
 
 ### Passo 1:
 
-#### *Primeiramente, caso ja tenha tentado montar um servidor, sugiro desinstalar o mysql por completo, e começar uma instalação limpa do zero *
+#### Primeiramente, caso ja tenha tentado montar um servidor, sugiro desinstalar o mysql por completo, e começar uma instalação limpa do zero
 
-:white_check_mark: *https://www.youtube.com/watch?v=JRktM3Qc37g&t=90s*
-
-
+- [Desinstalando mysql por completo](https://www.youtube.com/watch?v=JRktM3Qc37g&t=90s)
 
 
+### Passo 2:
 
+- [Organizando arquivos](https://youtu.be/3p8T25Tkrqw)
 
+### Passo 3:
+
+- [Primeira Montagem detahando](https://youtu.be/Ug1bAVg5Iv8) (Caso seja sua primeira vez, aconselho assistir essa montagem)
+
+- [Segunda montagem um pouco mais dinamico](https://youtu.be/-M86TzehUuo)
 
 
 ### 2. Configuração do Servidor
