@@ -1,9 +1,9 @@
 # 💥 Daybreak Brasil Online
 ## ℹ️ Tutorial completo daybreak brasil
-## ℹ️ Hướng dẫn đầy đủ cách tạo máy chủ DayBreak Online (Offline/Online) FREE
+##  Hướng dẫn đầy đủ cách tạo máy chủ DayBreak Online (Offline/Online) FREE
 #### Nếu bạn cần hỗ trợ về sản phẩm liên quan đến DayBreak Online (PC), vui lòng liên hệ tới tôi:*
-- *Discord:*  ###@.nyu8659 
-####Xin cảm ơn
+- *Discord:*  @.nyu8659 
+Xin cảm ơn
 
 Esse repositorio é esta sendo feito no intuito de ajudar a crescer a comunidade daybreak brasil surgindo novos servidores.
 
