@@ -23,7 +23,7 @@ Um repositório abrangente para o Daybreak Online, contendo diversas ferramentas
 
   - senha do winrar: 0302
 
-- [Download 1](https://www.mediafire.com/file/5ukibcvktsn7y76/daybreak_brasil_servidor_parte_2.rar/file) 
+### [Download 1](https://www.mediafire.com/file/5ukibcvktsn7y76/daybreak_brasil_servidor_parte_2.rar/file) 
 
  - Arquivos e programas - mysql, workbranch, notepad++, WinSCP, VMware, Pacote visual C++, Config da vm exportada etc 
  - Todos os bancos de dados
@@ -31,7 +31,7 @@ Um repositório abrangente para o Daybreak Online, contendo diversas ferramentas
  - Lista de permissões 
  - LAUNCHER ja configurado 
 
-- [Download 2](https://www.mediafire.com/file/6lypobmvk3osybd/daybreak_brasil_servidor_parte_1.rar/file) 
+### [Download 2](https://www.mediafire.com/file/6lypobmvk3osybd/daybreak_brasil_servidor_parte_1.rar/file) 
 - Apenas a VM Erating
 
 
