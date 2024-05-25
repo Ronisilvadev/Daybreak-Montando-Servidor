@@ -2,7 +2,7 @@
 Um repositório abrangente para o Daybreak Online, contendo diversas ferramentas, bancos de dados e arquivos necessários para configurar o servidor.
 
 ## App preview
-![image](https://github.com/Ronisilvadev/Daybreak-Montando-Servidor/264192194-c67e4032-a153-419c-9692-4dfb16855ed0)
+![image](https://github.com/thebitnomad/Daybreak-Online-AIO/assets/134553365/c67e4032-a153-419c-9692-4dfb16855ed0)
 
 ## ℹ️ Recursos Disponíveis
 
@@ -21,7 +21,7 @@ Um repositório abrangente para o Daybreak Online, contendo diversas ferramentas
 - [MySQL](https://downloads.mysql.com/archives/get/p/23/file/mysql-5.5.62-winx64.msi)
 - [Netframework 2.0](https://www.microsoft.com/pt-br/download/confirmation.aspx?id=6041)
 
-## 📝 Instruções
+## 📝 Tutorial COMPLETO
 
 ### 1. Instalação
 
