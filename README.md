@@ -14,21 +14,19 @@ Um repositório abrangente para o Daybreak Online, contendo diversas ferramentas
 
 ## - Requisitos Minimos:
 
-- O requisitos minimos pra rodar um server com autenticaçao de senha.**
+### O requisitos minimos pra rodar um server com autenticaçao de senha.
 
-*Windows,  minimo 16 de memoria ram, 250gb preferencia SSD*
+- *Windows,  minimo 16 de memoria ram, 250gb preferencia SSD*
 
-- Caso não va fazer nada com autenticaçao de senha. (logar no jogo sem senha)**
+### Caso não va fazer nada com autenticaçao de senha. (logar no jogo sem senha)
 
-*Windows,  minimo 8 de memoria ram, 120 gb preferencia SSD*
+- *Windows,  minimo 8 de memoria ram, 120 gb preferencia SSD*
 
 
 ## ℹ️ Download de todos os arquivos 
 
-- [Download 1](https://www.mediafire.com/file/5ukibcvktsn7y76/daybreak_brasil_servidor_parte_2.rar/file)
-- [Download 2](https://www.mediafire.com/file/6lypobmvk3osybd/daybreak_brasil_servidor_parte_1.rar/file)
-
-  - usuário: root
+- [Download 1](https://www.mediafire.com/file/5ukibcvktsn7y76/daybreak_brasil_servidor_parte_2.rar/file) Todos os arquivos necessarios e VM Gameserver
+- [Download 2](https://www.mediafire.com/file/6lypobmvk3osybd/daybreak_brasil_servidor_parte_1.rar/file) Apenas a vm Erating
   - senha: 0302
 - [DayBreak Game Client](https://drive.google.com/file/d/1B7Mx6gyQeBXmqtlSbVgdO2RjoAxwAaJG/view?usp=drive_link)
 - [VMWare WorkStation](https://drive.google.com/file/d/1BTE5S12eX20QfLxIrNRaOOQaZ3yJ-6CM/view?usp=drive_link)
