@@ -62,8 +62,11 @@ Os dois videos da montagem, contem as 2 formas de montar o servidor, sao videos 
 
 - [Configurando Firewall](https://youtu.be/cb3i_DPfrmQ)
 
-CEO da GlobalGames unica  pessoa que possui a licença do jogo no brasil
+CEO da GlobalGames:
 https://bitnomad.org/
+
+
+Qualquer duvida podem ta tirando nesses discords na sala de duvida
 
 Link do discord Servidor Principal CEO: https://discord.gg/vU8SyKttr5
 
