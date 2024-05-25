@@ -21,7 +21,7 @@ Esse tutorial foi dividido em 2 partes na questão de, fazer o login com ou sem 
 - *Windows,  minimo 8 de memoria ram, 120 gb preferencia SSD*
 
 ### O custo minimo para manter um servidor desse, seria apenas o aluguel do dedicado, de 400 a 600R$ dependendo do dedicado, bbhost etc
-###Se for jogar offline ou via hamachi com seus amigos o custo é nulo :)
+### Se for jogar offline ou via hamachi com seus amigos o custo é nulo :)
 
 ## ℹ️ Download de todos os arquivos 
 
@@ -47,7 +47,6 @@ Esse tutorial foi dividido em 2 partes na questão de, fazer o login com ou sem 
 
 - [Desinstalando mysql por completo](https://www.youtube.com/watch?v=JRktM3Qc37g&t=90s)
 
-
 ### Passo 2:
 
 - [Organizando arquivos](https://youtu.be/3p8T25Tkrqw)
@@ -56,13 +55,11 @@ Esse tutorial foi dividido em 2 partes na questão de, fazer o login com ou sem 
 
 - [Primeira Montagem detahando](https://youtu.be/Ug1bAVg5Iv8) (Caso seja sua primeira vez, aconselho assistir essa montagem)
 
-- [Segunda montagem um pouco mais dinamico](https://youtu.be/-M86TzehUuo)
-
+- [Segunda Montagem um pouco mais dinamico](https://youtu.be/-M86TzehUuo)
 
 ### Configurando firewall
 
 - [Firewall](https://youtu.be/cb3i_DPfrmQ)
-
 
 CEO da GlobalGames unica  pessoa que possui a licença do jogo no brasil
 https://bitnomad.org/
