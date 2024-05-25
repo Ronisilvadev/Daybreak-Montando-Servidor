@@ -35,27 +35,20 @@ Um repositório abrangente para o Daybreak Online, contendo diversas ferramentas
 - Apenas a VM Erating
 
 
+## 📝 TUTORIAL, PASSO A PASSO!
 
-## 📝 COMEÇANDO o TUTORIAL
+### Passo 1:
 
-### 1. Instalação
+#### *Primeiramente, caso ja tenha tentado montar um servidor, sugiro desinstalar o mysql por completo, e começar uma instalação limpa do zero *
 
-- Instale o IIS no seu Windows.
-- Suba a pasta `masterweb`.
-- Habilite a opção "Aplicativos de 32 bits = True".
-![image](https://github.com/thebitnomad/Daybreak-Online-AIO/assets/134553365/cd2687cf-a29e-4678-b8c7-22d645fdb12d)
-- Altere o `modo pipeline gerenciado` para Clássico
-![image](https://github.com/thebitnomad/Daybreak-Online-AIO/assets/134553365/2b94e8a4-2318-4b79-af94-18cf96a64986)
+:white_check_mark: *https://www.youtube.com/watch?v=JRktM3Qc37g&t=90s*
 
-- Importe os seguintes bancos de dados para o MySQL 5.5: `master.sql`, `daybreak_104001`, `daybreaklog_104001`.
-- Altere as configurações do arquivo `masterweb/App_Data/MasterSqlMap.config` com seu IP interno, usuário e senha do banco de dados.
-`<dataSource name="master" connectionString="Server=127.0.0.1;Port=3306;Database=master;Uid=root;Pwd=password;Allow User Variables=True;Character Set=utf8;" />`
-- Copie a Connection String a partir do " `Server=127.0.0.1;Port=3306;Database=master;Uid=root;Pwd=password;Allow User Variables=True;Character Set=utf8;`
-- Utilize o [dbcrypto](https://drive.google.com/file/d/1ws-09pjo5N7151SdwjtFdQmqnTkEqZz-/view?usp=drive_link) para criptografar a Connection String.
-- Altere a linha DBConnectionString do arquivo `masterconfig.xml` utilizando a Connection String criptografada.
-- Altere a senha do usuário `ivangod` no banco de dados `master`, utilizando uma criptografia MD5. Você pode utilizar uma ferramenta como [MD5HashGenerator](https://www.md5hashgenerator.com/).
-- Senha = (User+Senha) exemplo; usuario é ivangod, senha é 123test, logo, o md5 será `3377e95f44105286e6a5b63291a96d93` (ivangod123test)
-![image](https://github.com/thebitnomad/Daybreak-Online-AIO/assets/134553365/0ceb9f26-da01-40e5-8cc6-7399cafdc20c)
+
+
+
+
+
+
 
 ### 2. Configuração do Servidor
 
