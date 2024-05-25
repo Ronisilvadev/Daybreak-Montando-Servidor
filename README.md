@@ -55,11 +55,11 @@ Esse tutorial foi dividido em 2 partes na questão de, fazer o login com ou sem 
 
 - [Primeira Montagem detahando](https://youtu.be/Ug1bAVg5Iv8) (Caso seja sua primeira vez, aconselho assistir essa montagem)
 
-- [Segunda Montagem um pouco mais dinamico](https://youtu.be/-M86TzehUuo) https://youtu.be/-M86TzehUuo
+- [Segunda Montagem um pouco mais dinamico](https://youtu.be/-M86TzehUuo)
 
-### Configurando firewall
+### Firewall
 
-- [Firewall](https://youtu.be/cb3i_DPfrmQ) https://youtu.be/cb3i_DPfrmQ
+- [Configurando Firewall](https://youtu.be/cb3i_DPfrmQ)
 
 CEO da GlobalGames unica  pessoa que possui a licença do jogo no brasil
 https://bitnomad.org/
