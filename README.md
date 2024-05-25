@@ -1,7 +1,7 @@
 # 💥 Daybreak Brasil Online
 Esse repositorio é esta sendo feito no intuito de ajudar a crescer a comunidade daybreak brasil surgindo novos servidores.
 
-![image](https://github.com/thebitnomad/Daybreak-Online-AIO/assets/134553365/c67e4032-a153-419c-9692-4dfb16855ed0)
+![image](https://github.com/Ronisilvadev/Daybreak-Montando-Servidor/blob/main/264192194-c67e4032-a153-419c-9692-4dfb16855ed0.png)
 
 ## ℹ️ Considerações
 Arquivos do servidor Daybreak brasil valhalla aberto em 2023
